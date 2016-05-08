@@ -1,2 +1,3 @@
 # DEVONthink-tips
-Some tips about DEVONthink.
+Some small tips about DEVONthink.
+一些关于DEVONthink的小贴士。
